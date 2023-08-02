@@ -32,11 +32,11 @@ To setup and run this project:
 
 Here is a screenshot of the Ganache account showing the address, balance, and transaction (TX) count:
 
-![Ganache Account](./path_to_your_image/account_screenshot.png)
+![Ganache Account](./Images/account_screenshot.png)
 
 ### Ganache Transaction
 
 Here is a screenshot of the transaction from the Ganache transactions tab:
 
-![Ganache Transaction](./path_to_your_image/transaction_screenshot.png)
+![Ganache Transaction](./Images/transaction_screenshot.png)
 
